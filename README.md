@@ -11,11 +11,11 @@ Password Generator is a password radomizing tool that includes lowercase, upperc
 
 <p>&nbsp;</p>
 
- <p align="center"> <img width="550" height="300"  src="./images/Screenshot 2023-10-23 151403.png"/>
+ <p align="center"> <img width="350" height="300"  src="./images/Screenshot 2023-10-23 151403.png"/>
 </p>
 
 ## Use with JavaScript
-This password generator enables the user to create a 16 character password. To view the source code:
+This password generator enables the user to customize the password to include: an minimum of 8 characters to a maximum of 126 characters, to include uppercase characters and/or symbols. To view the source code:
 [View Full Documentation Here](https://github.com/aortega-wendzik/Password-Generator/blob/main/script.js)
 
 ## License
